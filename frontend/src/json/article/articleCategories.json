@@ -1,0 +1,34 @@
+[
+  { "label": "Mental Health Conditions", "value": "mental-health-conditions" },
+  { "label": "Anxiety, Depression & Mood Disorders", "value": "anxiety-depression-mood" },
+  { "label": "Trauma & PTSD", "value": "trauma-ptsd" },
+  { "label": "Eating & OCD Disorders", "value": "eating-ocd" },
+  { "label": "Neurodiversity & ADHD", "value": "neurodiversity-adhd" },
+  { "label": "Emotional Regulation", "value": "emotional-regulation" },
+
+  { "label": "Therapies & Treatments", "value": "therapy-treatments" },
+  { "label": "Medication & Psychiatry", "value": "medication-psychiatry" },
+  { "label": "Finding a Therapist", "value": "finding-a-therapist" },
+
+  { "label": "Mental Health Research", "value": "mental-health-research" },
+  { "label": "Learning Resources", "value": "education-resources" },
+  { "label": "Events & Media", "value": "events-media" },
+  { "label": "Digital Tools & Apps", "value": "tools-apps" },
+
+  { "label": "Wellness & Lifestyle", "value": "wellness-lifestyle" },
+  { "label": "Mindfulness & Meditation", "value": "mindfulness-meditation" },
+  { "label": "Nutrition, Sleep & Exercise", "value": "nutrition-sleep-exercise" },
+  { "label": "Self-Care Strategies", "value": "self-care" },
+
+  { "label": "Identity & Relationships", "value": "identity-relationships" },
+  { "label": "Youth & Teen Mental Health", "value": "youth-teens" },
+  { "label": "Gender-Based Mental Health", "value": "gender-mental-health" },
+  { "label": "Caregivers & Support Systems", "value": "caregivers-support" },
+  { "label": "Workplace Mental Health", "value": "workplace-mental-health" },
+
+  { "label": "Personal Stories & Creative Expression", "value": "stories-expression" },
+  { "label": "Grief, Loneliness & Self-Esteem", "value": "grief-loneliness-esteem" },
+  { "label": "Spirituality & Positivity", "value": "spirituality-positivity" },
+
+  { "label": "General Mental Health", "value": "general-mental-health" }
+]
