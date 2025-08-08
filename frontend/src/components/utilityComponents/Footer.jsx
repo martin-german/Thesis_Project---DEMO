@@ -17,7 +17,7 @@ function Footer() {
       url: "https://www.linkedin.com/in/martin-germ%C3%A1n-795698238/",
       icon: "bxl-linkedin",
     },
-    { name: "github", url: "https://github.com/Ricorito", icon: "bxl-github" },
+    { name: "github", url: "https://github.com/martin-german", icon: "bxl-github" },
   ];
 
   return (
